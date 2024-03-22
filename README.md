@@ -1,5 +1,5 @@
 # My-Open-Source-Codes-at-Tsinghua
-A catalog for all my labs, reports, projects at Tsinghua University.
+A catalog for all my labs, reports and course projects at Tsinghua University.
 
 |         课程         | 任课教师 |                           仓库地址                           |
 | :------------------: | :------: | :----------------------------------------------------------: |
