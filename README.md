@@ -12,4 +12,4 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 |     人工智能导论     |  马少平  | [作业](https://github.com/LeverImmy/Introduction-to-Artificial-Intelligence) |
 |  理论计算机科学导论  |  季铮锋  | [作业](https://github.com/LeverImmy/Introduction-to-Theoretical-Computer-Science) |
 |     数字逻辑实验     |  全成斌  | [实验报告](https://github.com/LeverImmy/Digital-Logic-Experimentation) |
-
+|   概率论与数理统计   |  唐宏岩  | [课程小论文](https://github.com/LeverImmy/Probability-and-Statistics-Thesis) |
