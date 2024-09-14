@@ -14,3 +14,6 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 |  理论计算机科学导论  |  季铮锋  | [作业](https://github.com/LeverImmy/Introduction-to-Theoretical-Computer-Science-Homework) |
 |     数字逻辑实验     |  全成斌  | [实验报告](https://github.com/LeverImmy/Digital-Logic-Experimentation-Reports) |
 |   概率论与数理统计   |  唐宏岩  | [课程小论文](https://github.com/LeverImmy/Probability-and-Statistics-Thesis) |
+|    计算机组成原理    |  陆游游  | [实验](https://github.com/leverimmy/Computer-Organization-Labs) |
+|     信号处理原理     |   贾珈   | [笔记](https://github.com/leverimmy/Principles-of-Signal-Processing-Notes) |
+|       初等数论       |  于红波  | [笔记](https://github.com/leverimmy/Elementary-Number-Theory-Notes) |
