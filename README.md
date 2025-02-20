@@ -8,7 +8,7 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 
 #### 基础课程
 
-**数学基础课**
+数学基础课：
 
 |       课程       | 任课教师 |                           仓库地址                           |
 | :--------------: | :------: | :----------------------------------------------------------: |
@@ -34,7 +34,7 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 
 #### 专业选修课程
 
-**专业限选课**
+专业限选课：
 
 |        课程        | 任课教师 |                           仓库地址                           |
 | :----------------: | :------: | :----------------------------------------------------------: |
@@ -42,7 +42,7 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 |      初等数论      |  于红波  | [作业](https://github.com/leverimmy/Elementary-Number-Theory-Homework) |
 | 计算机网络专题训练 |   杨芫   | [实验](https://github.com/leverimmy/Computer-Networks-Special-Training-Labs) |
 
-**自然科学基础选修**
+自然科学基础选修：
 
 |         课程         | 任课教师 | 仓库地址 |
 | :------------------: | :------: | :------: |
