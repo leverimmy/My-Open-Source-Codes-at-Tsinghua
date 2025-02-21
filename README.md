@@ -20,8 +20,8 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 
 |         课程         | 任课教师 |                           仓库地址                           |
 | :------------------: | :------: | :----------------------------------------------------------: |
-|     程序设计基础     |  徐明星  | [上机实验](https://github.com/leverimmy/Fundamentals-of-Programming-Labs)，[大作业](https://github.com/LeverImmy/Human-Resource-Machine) |
-| 面向对象程序设计基础 |  雍俊海  | [每周作业](https://github.com/leverimmy/Fundamentals-of-Object-Oriented-Programming-Homework)，[大作业](https://github.com/LeverImmy/Shwitter) |
+|     程序设计基础     |  徐明星  | [上机实验](https://github.com/leverimmy/Fundamentals-of-Programming-Labs)、[大作业](https://github.com/LeverImmy/Human-Resource-Machine) |
+| 面向对象程序设计基础 |  雍俊海  | [每周作业](https://github.com/leverimmy/Fundamentals-of-Object-Oriented-Programming-Homework)、[大作业](https://github.com/LeverImmy/Shwitter) |
 |     数字逻辑实验     |  全成斌  | [实验报告](https://github.com/leverimmy/Digital-Logic-Experimentation-Reports) |
 |       数据结构       |  邓俊辉  | [PA 和 LAB](https://github.com/leverimmy/Data-Structures-PAs-and-LABs) |
 |    计算机系统概论    |  韩文弢  | [实验](https://github.com/leverimmy/Introduction-to-Computer-Systems-Labs) |
