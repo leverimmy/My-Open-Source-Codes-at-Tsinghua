@@ -58,6 +58,12 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 
 ## 工业工程专业（辅修）
 
+### 专业必修课组
+
+|          课程           | 任课教师 |                           仓库地址                           |
+| :---------------------: | :------: | :----------------------------------------------------------: |
+| 人因工程 |   张伟   | [作业](https://github.com/leverimmy/Human-Factors-Homework) |
+
 ### 专业限选课组
 
 |          课程           | 任课教师 |                           仓库地址                           |
