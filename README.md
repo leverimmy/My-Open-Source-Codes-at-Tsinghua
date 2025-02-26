@@ -68,7 +68,7 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 
 |          课程           | 任课教师 |                           仓库地址                           |
 | :---------------------: | :------: | :----------------------------------------------------------: |
-| 运筹学(3)（决策方法学） |   赵磊   |                                                              |
+| 运筹学(3)（决策方法学） |   赵磊   | [作业](https://github.com/leverimmy/Operations-Research-3-Decision-Making-Homework) |
 |   计算机程序设计进阶    |  马昱春  | [作业](https://github.com/leverimmy/Advanced-Computer-Programming-Homework) |
 
 [^1]: 替代课程”物理实验A(1)“
