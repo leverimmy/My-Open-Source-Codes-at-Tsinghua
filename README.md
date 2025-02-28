@@ -14,7 +14,7 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 | :--------------: | :------: | :----------------------------------------------------------: |
 |   离散数学(1)    |  马昱春  |     [补充项目](https://github.com/leverimmy/Auto-Proof)      |
 | 概率论与数理统计 |  唐宏岩  | [课程小论文](https://github.com/leverimmy/Probability-and-Statistics-Thesis) |
-|     数值分析     |  东昱晓  | [作业](https://github.com/leverimmy/Numerical-Analysis-Homework) |
+|     数值分析     |  东昱晓  | [作业](https://github.com/leverimmy/Numerical-Analysis-Homework)、[实验](https://github.com/leverimmy/Numerical-Analysis-Labs) |
 
 #### 专业主修课程
 
