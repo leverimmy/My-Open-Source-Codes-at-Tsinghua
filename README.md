@@ -28,6 +28,7 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 |     信号处理原理     |   贾珈   | [笔记](https://github.com/leverimmy/Principles-of-Signal-Processing-Notes)、[实验](https://github.com/leverimmy/Principles-of-Signal-Processing-Labs) |
 |    计算机组成原理    |  陆游游  | [实验 1~5](https://github.com/leverimmy/Computer-Organization-Labs) |
 |       操作系统       |   陈渝   | [作业](https://github.com/leverimmy/Operating-Systems-Homework) |
+|    计算机系统结构    |  汪东升  | [书面作业](https://github.com/leverimmy/Computer-Architecture-Homework)、[实验](https://github.com/leverimmy/Computer-Architecture-Labs) |
 |       编译原理       |  王生原  |       [大作业](https://github.com/leverimmy/MiniDecaf)       |
 |     人工智能导论     |  马少平  | [作业](https://github.com/leverimmy/Introduction-to-Artificial-Intelligence-Homework) |
 
