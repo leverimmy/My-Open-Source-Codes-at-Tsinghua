@@ -30,6 +30,7 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 |       操作系统       |   陈渝   | [作业](https://github.com/leverimmy/Operating-Systems-Homework) |
 |    计算机系统结构    |  汪东升  | [书面作业](https://github.com/leverimmy/Computer-Architecture-Homework)、[实验](https://github.com/leverimmy/Computer-Architecture-Labs) |
 |       编译原理       |  王生原  |       [大作业](https://github.com/leverimmy/MiniDecaf)       |
+|    网络空间安全导论    |  李琦   | [实验](https://github.com/leverimmy/Cybersecurity-Fundamentals-Labs) |
 |     人工智能导论     |  马少平  | [作业](https://github.com/leverimmy/Introduction-to-Artificial-Intelligence-Homework) |
 
 
