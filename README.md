@@ -30,7 +30,7 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 |       操作系统       |   陈渝   | [作业](https://github.com/leverimmy/Operating-Systems-Homework) |
 |    计算机系统结构    |  汪东升  | [书面作业](https://github.com/leverimmy/Computer-Architecture-Homework)、[实验](https://github.com/leverimmy/Computer-Architecture-Labs) |
 |       编译原理       |  王生原  |       [大作业](https://github.com/leverimmy/MiniDecaf)       |
-|    网络空间安全导论    |  李琦   | [实验](https://github.com/leverimmy/Cybersecurity-Fundamentals-Labs) |
+|   网络空间安全导论   |   李琦   | [实验](https://github.com/leverimmy/Cybersecurity-Fundamentals-Labs) |
 |     人工智能导论     |  马少平  | [作业](https://github.com/leverimmy/Introduction-to-Artificial-Intelligence-Homework) |
 
 
@@ -40,6 +40,7 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 
 |        课程        | 任课教师 |                           仓库地址                           |
 | :----------------: | :------: | :----------------------------------------------------------: |
+| 网络安全工程与实践 |  段海新  | [实验](https://github.com/leverimmy/Network-Security-Engineering-and-Practice-Labs) |
 | 理论计算机科学导论 |  季铮锋  | [作业](https://github.com/leverimmy/Introduction-to-Theoretical-Computer-Science-Homework) |
 |      初等数论      |  于红波  | [作业](https://github.com/leverimmy/Elementary-Number-Theory-Homework) |
 | 计算机网络专题训练 |   杨芫   | [实验](https://github.com/leverimmy/Computer-Networks-Special-Training-Labs) |
@@ -62,9 +63,13 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 
 ### 专业必修课组
 
-|          课程           | 任课教师 |                           仓库地址                           |
-| :---------------------: | :------: | :----------------------------------------------------------: |
-| 人因工程 |   张伟   | [作业](https://github.com/leverimmy/Human-Factors-Homework) |
+|            课程             | 任课教师 |                           仓库地址                           |
+| :-------------------------: | :------: | :----------------------------------------------------------: |
+|  运筹学（1）（确定性方法）  |   赵磊   | [作业](https://github.com/leverimmy/Operations-Research-1-Deterministic-Models-Homework) |
+|     应用统计与数据分析      |   王琛   | [书面作业和 R 语言作业](https://github.com/leverimmy/Applied-Statistics-and-Data-Analytics-Homework) |
+| 运筹学（2）（应用随机模型） |   祁炜   | [作业](https://github.com/leverimmy/Operations-Research-2-Applied-Stochastic-Models) |
+|          人因工程           |   张伟   | [作业](https://github.com/leverimmy/Human-Factors-Homework)  |
+|          实验设计           |   张晨   | [作业](https://github.com/leverimmy/Design-of-Experiments-Homework) |
 
 ### 专业限选课组
 
@@ -72,6 +77,9 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 | :---------------------: | :------: | :----------------------------------------------------------: |
 | 运筹学(3)（决策方法学） |   赵磊   | [作业](https://github.com/leverimmy/Operations-Research-3-Decision-Making-Homework) |
 |   计算机程序设计进阶    |  马昱春  | [作业](https://github.com/leverimmy/Advanced-Computer-Programming-Homework) |
+|    机器学习与大数据     |  李彦夫  | [作业](https://github.com/leverimmy/Machine-Learning-and-Big-data-Homework)、[实验](https://github.com/leverimmy/Machine-Learning-and-Big-data-Labs) |
+|     非线性规划基础      |  刘俊驿  | [作业](https://github.com/leverimmy/Foundations-of-Nonlinear-Programming-Homework) |
+|       建模与仿真        |  谢小磊  | [作业](https://github.com/leverimmy/Modeling-and-Simulation-Homework) |
+|       工程经济学        |  白茜文  | [作业](https://github.com/leverimmy/Engineering-Economy-Homework) |
 
 [^1]: 替代课程”物理实验A(1)“
-
