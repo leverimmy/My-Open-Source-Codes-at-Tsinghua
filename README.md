@@ -75,7 +75,7 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 
 |          课程           | 任课教师 |                           仓库地址                           |
 | :---------------------: | :------: | :----------------------------------------------------------: |
-| 运筹学(3)（决策方法学） |   赵磊   | [作业](https://github.com/leverimmy/Operations-Research-3-Decision-Making-Homework) |
+| 运筹学（3）（决策方法学） |   赵磊   | [作业](https://github.com/leverimmy/Operations-Research-3-Decision-Making-Homework) |
 |   计算机程序设计进阶    |  马昱春  | [作业](https://github.com/leverimmy/Advanced-Computer-Programming-Homework) |
 |    机器学习与大数据     |  李彦夫  | [作业](https://github.com/leverimmy/Machine-Learning-and-Big-data-Homework)、[实验](https://github.com/leverimmy/Machine-Learning-and-Big-data-Labs) |
 |     非线性规划基础      |  刘俊驿  | [作业](https://github.com/leverimmy/Foundations-of-Nonlinear-Programming-Homework) |
