@@ -41,6 +41,7 @@ A catalog for all my labs, reports and course projects at Tsinghua University.
 |        课程        | 任课教师 |                           仓库地址                           |
 | :----------------: | :------: | :----------------------------------------------------------: |
 | 网络安全工程与实践 |  段海新  | [实验](https://github.com/leverimmy/Network-Security-Engineering-and-Practice-Labs) |
+|     嵌入式系统    |    陶品   | [大实验](https://github.com/leverimmy/MobileNetV2-RPI-OpenVINO-NCS2) |
 | 理论计算机科学导论 |  季铮锋  | [作业](https://github.com/leverimmy/Introduction-to-Theoretical-Computer-Science-Homework) |
 |      初等数论      |  于红波  | [作业](https://github.com/leverimmy/Elementary-Number-Theory-Homework) |
 | 计算机网络专题训练 |   杨芫   | [实验](https://github.com/leverimmy/Computer-Networks-Special-Training-Labs) |
